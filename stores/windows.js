@@ -38,7 +38,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "ResumeWindow", // Unique ID
         windowState: "close", // Window State [open, close, minimize]
-        displayName: "PROJECTS", // Display Name (title under icon)
+        displayName: "SERVICES", // Display Name (title under icon)
         windowComponent: "window", // Window Component (can be changed to use modified windows)
         windowContent: "resume", // Window Content (used under slots)
         windowContentPadding: {
@@ -81,7 +81,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "NOSSAFLEXWindow",
         windowState: "close",
-        displayName: "SHOP",
+        displayName: "PROJECTS",
         windowComponent: "window",
         windowContent: "nossaflex",
         windowContentPadding: {
@@ -123,7 +123,7 @@ export const useWindowsStore = defineStore("windows", {
     {
         windowId: "AppleWWDC2021",
         windowState: "close",
-        displayName: "GAMES",
+        displayName: "CONTACT",
         windowComponent: "window",
         windowContent: "wwdc2021",
         windowContentPadding: {
@@ -144,7 +144,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "AppleWWDC2022",
         windowState: "close",
-        displayName: "SERVICES",
+        displayName: "SHOP",
         windowComponent: "window",
         windowContent: "wwdc2022",
         windowContentPadding: {
@@ -165,7 +165,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "AppleWWDC2023",
         windowState: "close",
-        displayName: "TEST",
+        displayName: "GAMES",
         windowComponent: "window",
         windowContent: "wwdc2023",
         windowContentPadding: {
@@ -186,7 +186,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "MailWindow",
         windowState: "close",
-        displayName: "CONTACT",
+        displayName: "TEST",
         windowComponent: "mail",
         windowContent: "",
         windowContentPadding: {
@@ -207,7 +207,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "PhotosWindow", // Unique ID
         windowState: "close", // Window State [open, close, minimize]
-        displayName: "Photos", // Display Name (title under icon)
+        displayName: "TEST 2", // Display Name (title under icon)
         windowComponent: 'FilesWindow', // Window Component (can be changed to use modified windows)
         windowContent: '', // Window Content (used under slots)
         windowContentPadding: {
