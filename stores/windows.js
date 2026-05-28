@@ -17,7 +17,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "BiographyWindow", // Unique ID
         windowState: "close", // Window State [open, close, minimize]
-        displayName: "ABOUT ME", // Display Name (title under icon)
+        displayName: "NADIA", // Display Name (title under icon)
         windowComponent: "window", // Window Component (can be changed to use modified windows)
         windowContent: "bio", // Window Content (used under slots)
         windowContentPadding: {
