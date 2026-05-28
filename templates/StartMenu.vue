@@ -4,7 +4,7 @@
         <img class="sidebar-image" src="@/assets/sidebar-image.png" />
     </div>
     <div class="socials">
-        <a href="https://www.instagram.com/lizardonthecamera/" target="_blank">
+        <a href="https://www.instagram.com/nadiasagadahlberg/" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Instagram.webp" />
                 <div class="social-text"><u>I</u>nstagram</div>
@@ -28,7 +28,7 @@
                 <u>T</u>witter
             </div>
         </a>
-        <a href="https://github.com/DonChiaQE" target="_blank">
+        <a href="https://github.com/nadiadahlberg" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Github.webp" />
                 <u>G</u>itHub
