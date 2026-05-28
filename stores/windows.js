@@ -144,7 +144,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "AppleWWDC2022",
         windowState: "close",
-        displayName: "WWDC 2022",
+        displayName: "SERVICES",
         windowComponent: "window",
         windowContent: "wwdc2022",
         windowContentPadding: {
