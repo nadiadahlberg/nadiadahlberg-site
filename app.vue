@@ -150,6 +150,7 @@ h6 {
   width: 100%;
   position: relative;
   z-index: 999;
+  background: #000000;
 }
 
 ::-webkit-scrollbar {
