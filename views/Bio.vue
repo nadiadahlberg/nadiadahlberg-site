@@ -26,7 +26,7 @@
     <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">About Me</h3>
         <p class="font-thin text-sm pb-2.5">
-            I’m a {{ new Date().getFullYear() - 2003 }} year old software engineer who’s a React Native and Vue.JS engineer by day but a native iOS developer by night. Crafting impactful software that serves my community and people around me is my passion.
+            I’m a {{ new Date().getFullYear() - 1995 }} year old software engineer who’s a React Native and Vue.JS engineer by day but a native iOS developer by night. Crafting impactful software that serves my community and people around me is my passion.
         </p>
         <p class="font-thin text-sm pb-2.5">
             I thrive on staying updated with the latest design trends and development frameworks across all platforms. While my heart lies in native app design and development, I also excel in cross-platform app and web development, which keeps the bills paid.
