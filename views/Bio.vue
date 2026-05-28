@@ -3,9 +3,10 @@
     <img class="w-full h-auto" src="@/assets/Biography/self.jpg" />
     <h2 class="font-bold text-2xl py-5">Nadia Dahlberg</h2>
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
-        CTO @ Randamu Anime •  Apple WWDC 2021 & 2022 SSC Scholar
+        Digital communication specialist, graphic designer, creative and game programmer
     </h4>
-    <h4 class="text-gray-600 font-medium text-xs">Stockholm, Sweden 📍</h4>
+    <h4 class="text-gray-600 font-medium text-xs">📍Based in Stockholm, Sweden</h4>
+    <h4 class="text-gray-600 font-medium text-xs">📍Available worldwide</h4>
 
     <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Swift-orange" />
