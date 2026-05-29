@@ -40,12 +40,10 @@
 
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Bachelor’s Degree in Media and Communication Science</h4>
-        <p class="text-gray-600 text-xs">Jönköping University • 2014 – 2017 • Sweden</p>
+        <p class="text-gray-600 text-xs">Jönköping University • 2014 – 2017</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
-            <li>Organized and supervised the design and implementation of Randamu’s digital marketplace using React. Optimized architecture and user experience.</li>
-            <li>Collaborated with the Marketing and Events team to run the first creator event at Orchard with thousands of attendees and hundreds of vendors.</li>
-            <li>Attended an IP and Licensing Expo in Shanghai. Built APAC licensing network and signed a licensed creator for Randamu.</li>
-            <li>Backed by Enterprise SG and incubated under Ngee Ann Polytechnic’s AGILE program.</li>
+            <li>Specialization: Marketing Communication and PR</li>
+            <li>Exchange semester: University of Canberra, Australia</li>
         </ul>
     </section>
 
