@@ -9,10 +9,23 @@
                 <img class="social-image" src="@/assets/iPhone-Icons/Instagram.webp" />
                 <div class="social-text"><u>I</u>nstagram</div>
             </div>
+                    </a>
+        <a href="https://www.reddit.com/user/satoshigekkouga2303" target="_blank">
+            <div class="bar">
+                <img class="social-image" src="@/assets/iPhone-Icons/Reddit.webp" />
+                <u>R</u>eddit
+            </div>
+        </a>
         <a href="https://www.linkedin.com/in/don-chia" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Linkedin.webp" />
                 <u>L</u>inkedIn
+            </div>
+        </a>
+                <a href="https://twitter.com/lizarDON2303" target="_blank">
+            <div class="bar">
+                <img class="social-image" src="@/assets/iPhone-Icons/Twitter.webp" />
+                <u>T</u>witter
             </div>
         </a>
         <a href="https://github.com/nadiadahlberg" target="_blank">
