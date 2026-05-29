@@ -35,11 +35,11 @@
     </div>
     
     <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">Work Experience</h3>
+        <h3 class="underline font-bold text-md pb-1">Education</h3>
     </div>
 
     <section class="pt-6">
-        <h4 class="text-lg font-semibold">Randamu Anime</h4>
+        <h4 class="text-lg font-semibold">Bachelor’s Degree in Media and Communication Science</h4>
         <p class="text-gray-600 text-xs">CTO • Jan 2025 – Present • Ho Chi Minh City, VN & Singapore, SG</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Organized and supervised the design and implementation of Randamu’s digital marketplace using React. Optimized architecture and user experience.</li>
