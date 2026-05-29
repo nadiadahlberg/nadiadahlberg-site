@@ -78,6 +78,9 @@
         <p class="text-gray-600 text-xs">Jönköping University • 2014 – 2017 • Sweden</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Specialization: Marketing Communication and PR</li>
+                    <p class="font-thin text-sm pb-2.5">
+         Text här
+        </p>
             <li>Exchange semester: University of Canberra, Australia</li>
             <li>Studied courses in:</li>
             <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
@@ -89,6 +92,7 @@
         </ul>
     </section>
 
+    
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Game Programming</h4>
         <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2025 • Sweden</p>
