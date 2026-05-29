@@ -44,6 +44,7 @@
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Specialization: Marketing Communication and PR</li>
             <li>Exchange semester: University of Canberra, Australia</li>
+            <li></li>
             <li>Studied courses in:</li>
             <li>- [Course name 1]</li>
             <li>- [Course name 2]</li>
