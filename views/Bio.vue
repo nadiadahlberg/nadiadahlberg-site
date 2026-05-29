@@ -1,6 +1,6 @@
 <template>
 <div>
-    <img class="w-full h-auto" src="@/assets/Biography/self.jpg" />
+    <img class="w-full h-auto" src="https://earth-agency.com/app/uploads/2025/01/DJ-Spanish-Fly-2-Crop.jpg" />
     <h2 class="font-bold text-2xl py-5">Nadia Dahlberg</h2>
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
         Digital communication specialist, graphic designer, creative and game programmer
