@@ -75,7 +75,7 @@
 
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Bachelor’s Degree in Media and Communication Science</h4>
-        <p class="text-gray-600 text-xs">Jönköping University • 2014 – 2017 • Sweden</p>
+        <p class="text-gray-600 text-xs">Jönköping University, Sweden • 2014 – 2017</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Specialization: Marketing Communication and PR</li>
                     <p class="font-thin text-sm pb-2.5">
@@ -95,7 +95,7 @@
     
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Game Programming</h4>
-        <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2025 • Sweden</p>
+        <p class="text-gray-600 text-xs">Forsbergs Skola, Sweden • 2020 – 2025</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Text här</li>
         </ul>
