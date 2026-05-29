@@ -6,7 +6,7 @@
         Digital communication specialist, graphic designer, creative and game programmer
     </h4>
     <h4 class="text-gray-600 font-medium text-xs">📍Based in Stockholm, Sweden</h4>
-    <h4 class="text-gray-600 font-medium text-xs">📍Available worldwide</h4>
+    <h4 class="text-gray-600 font-medium text-xs">🌍Available worldwide</h4>
 
     <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Swift-orange" />
