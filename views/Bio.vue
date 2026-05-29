@@ -8,6 +8,51 @@
     <h4 class="text-gray-600 font-medium text-xs">📍Based in Stockholm, Sweden</h4>
     <h4 class="text-gray-600 font-medium text-xs">🌍Available worldwide</h4>
 
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">About Me</h3>
+        <p class="font-thin text-sm pb-2.5">
+         Text här
+        </p>
+        <p class="font-thin text-sm pb-2.5">
+            Mer text här
+        </p>
+    </div>
+
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">Languages</h3>
+        <p class="font-thin text-sm pb-2.5">
+         Text här
+        </p>
+    </div>
+
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">Design</h3>
+        <p class="font-thin text-sm pb-2.5">
+         Text här
+        </p>
+    </div>
+
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">SEO</h3>
+        <p class="font-thin text-sm pb-2.5">
+         Text här
+        </p>
+    </div>
+
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">CMS</h3>
+        <p class="font-thin text-sm pb-2.5">
+         Text här
+        </p>
+    </div>
+
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">Tech</h3>
+        <p class="font-thin text-sm pb-2.5">
+         Text här
+        </p>
+    </div>
+
     <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Swift-orange" />
         <img class="w-auto h-5 rounded-none text-xs" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
@@ -22,16 +67,6 @@
         <img class="w-auto h-5 rounded-none text-xs" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4ca158" />
         <img class="w-auto h-5 rounded-none text-xs" alt="SQLite" src="https://img.shields.io/badge/-SQLite-64a2c9" />
         <img class="w-auto h-5 rounded-none text-xs" alt="Figma" src="https://img.shields.io/badge/-Figma-8c5aee" />
-    </div>
-
-    <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">About Me</h3>
-        <p class="font-thin text-sm pb-2.5">
-         Text här
-        </p>
-        <p class="font-thin text-sm pb-2.5">
-            Mer text här
-        </p>
     </div>
     
     <div class="pt-7">
