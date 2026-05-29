@@ -33,7 +33,7 @@
     </div>
 
         <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">SEO</h3>
+        <h3 class="underline font-bold text-md pb-1">SEO & Analytics</h3>
         <p class="font-thin text-sm pb-2.5">
          Text här
         </p>
