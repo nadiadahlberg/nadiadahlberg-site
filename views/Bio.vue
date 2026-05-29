@@ -40,7 +40,7 @@
 
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Bachelor’s Degree in Media and Communication Science</h4>
-        <p class="text-gray-600 text-xs">CTO • Jan 2025 – Present • Ho Chi Minh City, VN & Singapore, SG</p>
+        <p class="text-gray-600 text-xs">Jönköping University • 2014 – 2017 • Sweden</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Organized and supervised the design and implementation of Randamu’s digital marketplace using React. Optimized architecture and user experience.</li>
             <li>Collaborated with the Marketing and Events team to run the first creator event at Orchard with thousands of attendees and hundreds of vendors.</li>
