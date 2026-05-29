@@ -48,45 +48,13 @@
     </section>
 
     <section class="pt-6">
-        <h4 class="text-lg font-semibold">NOSSAFLEX</h4>
-        <p class="text-gray-600 text-xs">iOS Engineer • May 2020 – Aug 2025 • Melbourne, AU & Fredericksburg, USA</p>
+        <h4 class="text-lg font-semibold">Higher Vocational Education in Game Programming</h4>
+        <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2025 • Melbourne, AU & Fredericksburg, USA</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Led iOS frontend development in a cross-border team across the US and Australia.</li>
             <li>Partnered with the lead designer to ship a polished iOS experience aligned with Apple HIG.</li>
             <li>Consulted Apple Design Evangelist and applied MVVM for clean architecture.</li>
             <li>Stack included UIKit, SwiftUI, AVFoundation, Core Data, and Firebase.</li>
-        </ul>
-    </section>
-
-    <section class="pt-6">
-        <h4 class="text-lg font-semibold">SAF Signals Cloud & Digital Office</h4>
-        <p class="text-gray-600 text-xs">Software Engineer • Nov 2023 – Aug 2024 • Singapore, SG</p>
-        <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
-            <li>Co-founded the Digital Office in Signals Corps with regulars. Office formally launched in 2025 with command structure and MINDEF funding.</li>
-            <li>Built apps with React Native, Firebase, and Flask. Deployed tools to troopers overseas.</li>
-            <li>Recognized by Chief of Army, Chief Signals Officer, and formation leaders.</li>
-            <li>Worked with Kotlin Jetpack Compose, SwiftUI, Vue3, Pinia, and TailwindCSS.</li>
-        </ul>
-    </section>
-
-    <section class="pt-6">
-        <h4 class="text-lg font-semibold">Fundigo Co.</h4>
-        <p class="text-gray-600 text-xs">Project Manager & Fullstack Web Developer • Jun 2022 – Dec 2024 • Singapore, SG</p>
-        <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
-            <li>Led a small international SEA team to deliver quality code and reliable releases.</li>
-            <li>Revamped cross-platform UI using Material 3 to improve engagement and clarity.</li>
-            <li>Built merchant portal with Vite, Vue3, and Pinia. Applied MVVM patterns with TailwindCSS.</li>
-            <li>Funded by Quest Ventures and incubated under SUSS Accelerator.</li>
-        </ul>
-    </section>
-
-    <section class="pt-6">
-        <h4 class="text-lg font-semibold">Current Mobility</h4>
-        <p class="text-gray-600 text-xs">iOS Engineer • Oct 2023 – Mar 2024 • Palo Alto, USA</p>
-        <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
-            <li>Shipped an EV charging discovery app using SwiftUI and MapKit.</li>
-            <li>Worked with a senior tech lead to support funding milestones.</li>
-            <li>Stack included UIKit, SwiftUI, and Firebase.</li>
         </ul>
     </section>
 
