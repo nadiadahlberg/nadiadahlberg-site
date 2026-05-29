@@ -13,9 +13,6 @@
         <p class="font-thin text-sm pb-2.5">
          Text här
         </p>
-        <p class="font-thin text-sm pb-2.5">
-            Mer text här
-        </p>
     </div>
 
         <div class="pt-7">
@@ -78,7 +75,7 @@
         <p class="text-gray-600 text-xs">Jönköping University • 2014 – 2017</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <p class="font-thin text-sm pb-2.5">Specialization: Marketing Communication and PR</p>
-            <li>Exchange semester: University of Canberra, Australia</li>
+            <p class="font-thin text-sm pb-2.5">Exchange semester: University of Canberra, Australia</p>
         <p class="font-thin text-sm pb-2.5">Studied couses in:</p>
             <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>- Course name 1</li>
