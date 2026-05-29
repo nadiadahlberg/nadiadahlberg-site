@@ -11,7 +11,7 @@
 <div class="pt-7">
   <h3 class="underline font-bold text-md pb-1">Tech</h3>
 
-  <div class="flex flex-wrap gap-2 items-center">
+  <div class="flex flex-wrap gap-2 items-center pb-2.5">
     <img class="w-auto h-5" alt="Swift" src="https://img.shields.io/badge/-Swift-orange" />
     <img class="w-auto h-5" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
     <img class="w-auto h-5" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow" />
