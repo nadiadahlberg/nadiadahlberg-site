@@ -27,19 +27,10 @@
     <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">About Me</h3>
         <p class="font-thin text-sm pb-2.5">
-            I’m a {{ new Date().getFullYear() - 1995 }} year old software engineer who’s a React Native and Vue.JS engineer by day but a native iOS developer by night. Crafting impactful software that serves my community and people around me is my passion.
+         Text här
         </p>
         <p class="font-thin text-sm pb-2.5">
-            I thrive on staying updated with the latest design trends and development frameworks across all platforms. While my heart lies in native app design and development, I also excel in cross-platform app and web development, which keeps the bills paid.
-        </p>
-        <p class="font-thin text-sm pb-2.5">
-            At 17, I co-founded NOSSAFLEX with developers from Australia and the US. Since then, it has garnered attention, being featured on local television, Apple’s annual Entrepreneur Camp, and earning a nomination from Apple’s regional team for their annual design awards.
-        </p>
-        <p class="font-thin text-sm pb-2.5">
-            Having collaborated with diverse companies worldwide, from e-commerce to art and design industries, I've honed the ability to manage multiple projects simultaneously across various time zones.
-        </p>
-        <p class="font-thin text-sm pb-2.5">
-            In my spare time, I indulge in scrolling through analog camera listings or admiring my collection, although shooting has taken a backseat due to my various work commitments.
+            Mer text här
         </p>
     </div>
     
