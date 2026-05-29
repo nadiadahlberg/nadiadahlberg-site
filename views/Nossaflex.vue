@@ -1,4 +1,5 @@
-<div>
+<template>
+    <div>
     <img src="@/assets/Nossaflex/hero_light.webp" alt="NOSSAFLEX logo" class="hero" />
     <div class="inner-content">
         <h3 class="heading"><b>What I do:</b></h3>
