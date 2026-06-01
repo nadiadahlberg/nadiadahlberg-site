@@ -11,7 +11,7 @@
         <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">About Me</h3>
         <p class="font-thin text-sm pb-2.5">
-         Creating and managing
+         Text här
         </p>
     </div>
 
