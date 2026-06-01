@@ -8,7 +8,7 @@
     <h4 class="text-gray-600 font-medium text-xs">📍Based in Stockholm, Sweden</h4>
     <h4 class="text-gray-600 font-medium text-xs">🌍Available worldwide</h4>
 
-        <div class="pt-7">
+       <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">About Me</h3>
         <p class="font-thin text-sm pb-2.5">
          Text här
