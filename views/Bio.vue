@@ -104,7 +104,7 @@
 
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
-            Optimizely (Episerver)
+            Optimizely/Episerver
         </span>
 
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
@@ -119,11 +119,43 @@
 </div>
 
         <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">Tech</h3>
-        <p class="font-thin text-sm pb-2.5">
-         Text här
-        </p>
+    <h3 class="underline font-bold text-md pb-2.5">Tech</h3>
+
+    <div class="flex flex-wrap gap-2">
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            HTML/CSS
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            GitHub
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Git
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Unity
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            JavaScript
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Vue.js
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Tailwind CSS
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            C#
+        </span>
+        
     </div>
+</div>
 
      <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Swift-orange" />
