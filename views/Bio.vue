@@ -194,7 +194,7 @@
     
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Game Programming</h4>
-        <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2025</p>
+        <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2022</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Text här</li>
         </ul>
