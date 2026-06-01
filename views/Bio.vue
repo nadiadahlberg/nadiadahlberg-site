@@ -17,7 +17,7 @@
 
         <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">Languages</h3>
-        <span class="inline-block px-3 py-1 text-xs border border-gray-300 rounded-full">
+        <span class="inline-block px-3 py-2.5 text-xs border border-gray-300 rounded-full">
   English
 </span>
             <p class="font-thin text-sm pb-2.5">
