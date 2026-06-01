@@ -76,12 +76,24 @@
     </div>
 </div>
 
-           <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">SEO & Analytics</h3>
-        <p class="font-thin text-sm pb-2.5">
-         Text här
-        </p>
+    <div class="pt-7">
+    <h3 class="underline font-bold text-md pb-2.5">SEO & Analytics</h3>
+
+    <div class="flex flex-wrap gap-2">
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Google Analytics 4
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Google Search Console
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Google Ads
+        </span>
+        
     </div>
+</div>
 
      <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">CMS</h3>
