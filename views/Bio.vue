@@ -77,7 +77,7 @@
 </div>
 
     <div class="pt-7">
-    <h3 class="underline font-bold text-md pb-2.5">SEO & Analytics</h3>
+    <h3 class="underline font-bold text-md pb-2.5">Marketing Tools</h3>
 
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
@@ -94,6 +94,18 @@
 
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Google Tag Manager
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Apsis
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Mailchimp
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            HubSpot
         </span>
         
     </div>
