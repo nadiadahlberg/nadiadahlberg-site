@@ -91,6 +91,10 @@
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Google Ads
         </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Google Tag Manager
+        </span>
         
     </div>
 </div>
