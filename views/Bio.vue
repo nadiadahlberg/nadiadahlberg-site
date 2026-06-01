@@ -34,7 +34,7 @@
 </div>
 
 <div class="pt-7">
-    <h3 class="underline font-bold text-md pb-2.5">Creative Tools</h3>
+    <h3 class="underline font-bold text-md pb-2.5">Creative</h3>
 
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
@@ -77,7 +77,7 @@
 </div>
 
     <div class="pt-7">
-    <h3 class="underline font-bold text-md pb-2.5">Marketing Tools</h3>
+    <h3 class="underline font-bold text-md pb-2.5">Marketing</h3>
 
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
@@ -179,24 +179,17 @@
     </h4>
 
     <p class="text-gray-600 text-xs">
-        Jönköping University, Sweden • 2014–2017
+        Jönköping University • 2014–2017
     </p>
 
     <ul class="list-disc pl-5 mt-2 text-sm font-thin">
         <li>Specialization: Marketing Communication and PR</li>
     </ul>
 
-    <p class="text-gray-600 text-xs mt-3">
-        University of Canberra, Australia • 2016
-    </p>
-
     <ul class="list-disc pl-5 mt-2 text-sm font-thin">
-        <li>Exchange semester</li>
-        <li>Course name 1</li>
-        <li>Course name 2</li>
-        <li>Course name 3</li>
-        <li>Course name 4</li>
+        <li>Exchange semester: University of Canberra, Australia</li>
     </ul>
+
 </section>
     
     <section class="pt-6">
