@@ -70,23 +70,31 @@
         <h3 class="underline font-bold text-md pb-1">Education</h3>
     </div>
 
-    <section class="pt-6">
-        <h4 class="text-lg font-semibold">Bachelor’s Degree in Media and Communication Science</h4>
-        <p class="text-gray-600 text-xs">Jönköping University, Sweden • 2014 – 2017</p>
-        <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
-            <p class="font-thin text-sm pb-2.5">Specialization: Marketing Communication and PR</p>
-            <p class="text-gray-600 text-xs">University of Canberra, Australia • 2016</p>
-            <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
-            <p class="font-thin text-sm pb-2.5">Exchange semester</p>
-        <p class="font-thin text-sm pb-2.5">Studied couses in:</p>
-            <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
-            <li>- Course name 1</li>
-            <li>- Course name 2</li>
-            <li>- Course name 3</li>
-            <li>- Course name 4</li>
-                </ul>
-        </ul>
-    </section>
+<section class="pt-6">
+    <h4 class="text-lg font-semibold">
+        Bachelor’s Degree in Media and Communication Science
+    </h4>
+
+    <p class="text-gray-600 text-xs">
+        Jönköping University, Sweden • 2014–2017
+    </p>
+
+    <ul class="list-disc pl-5 mt-2 text-sm font-thin">
+        <li>Specialization: Marketing Communication and PR</li>
+    </ul>
+
+    <p class="text-gray-600 text-xs mt-3">
+        University of Canberra, Australia • 2016
+    </p>
+
+    <ul class="list-disc pl-5 mt-2 text-sm font-thin">
+        <li>Exchange semester</li>
+        <li>Course name 1</li>
+        <li>Course name 2</li>
+        <li>Course name 3</li>
+        <li>Course name 4</li>
+    </ul>
+</section>
     
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Game Programming</h4>
