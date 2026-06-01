@@ -34,7 +34,7 @@
 </div>
 
 <div class="pt-7">
-    <h3 class="underline font-bold text-md pb-2.5">Design</h3>
+    <h3 class="underline font-bold text-md pb-2.5">Creative Tools</h3>
 
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
@@ -48,6 +48,31 @@
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             InDesign
         </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Firefly
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Figma
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Premiere Pro
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            After Effects
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            DaVinci Resolve
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Blender
+        </span>
+        
     </div>
 </div>
 
