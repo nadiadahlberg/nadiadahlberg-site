@@ -76,6 +76,7 @@
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <p class="font-thin text-sm pb-2.5">Specialization: Marketing Communication and PR</p>
             <p class="text-gray-600 text-xs">University of Canberra, Australia • 2016</p>
+            <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <p class="font-thin text-sm pb-2.5">Exchange semester</p>
         <p class="font-thin text-sm pb-2.5">Studied couses in:</p>
             <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
