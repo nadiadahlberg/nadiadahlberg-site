@@ -15,21 +15,23 @@
         </p>
     </div>
     
-        <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-2.5">Languages</h3>
-        <span class="inline-block px-3 py-1 text-xs border border-gray-300 rounded-full">
-  English
-</span>
-                    <span class="inline-block px-3 py-1 text-xs border border-gray-300 rounded-full">
-  Swedish
-</span>
-                    <span class="inline-block px-3 py-1 text-xs border border-gray-300 rounded-full">
-  Polish
-</span>
-            <p class="font-thin text-sm pb-2.5">
-         Text här
-        </p>
+<div class="pt-7">
+    <h3 class="underline font-bold text-md pb-2.5">Languages</h3>
+
+    <div class="flex flex-wrap gap-2">
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            English
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Swedish
+        </span>
+
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Polish
+        </span>
     </div>
+</div>
 
         <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">Design</h3>
