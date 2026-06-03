@@ -99,7 +99,7 @@ export const useWindowsStore = defineStore("windows", {
         positionY: "10vh", // Window Position Y (when first opened)
         positionXLarge: "23vw",
         positionYLarge: "7%",
-        iconImage: "photos.png", // Window Icon Image
+        iconImage: "resume.png", // Window Icon Image
         altText: "Photos", // Window Icon Alt Text
         fullscreen: false, // Window Fullscreen State [true, false]
         showInNavbar: true,
