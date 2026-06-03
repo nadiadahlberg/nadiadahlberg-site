@@ -81,7 +81,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "MailWindow",
         windowState: "close",
-        displayName: "Mail",
+        displayName: "CONTACT",
         windowComponent: "mail",
         windowContent: "",
         windowContentPadding: {
