@@ -1,10 +1,10 @@
 <template>
-    <div>
+<div>
     <img src="@/assets/Nossaflex/hero_light.webp" alt="NOSSAFLEX logo" class="hero" />
     <div class="inner-content">
-        <h3 class="heading"><b>What I do:</b></h3>
+        <h3 class="heading"><b>Phase One: The Beginning</b></h3>
         <p class="paragraph">
-           Text här
+            NOSSAFLEX began as two separate entities initially—an idea that simmered in my mind as an EXIF data logger app for the Apple Watch. Sketches of the original app exist in images, created using Apple's Storyboarding system. Initially, it didn't make much sense to me, but when I uploaded it onto online platforms like Reddit, the concept took off and became an instant hit.
         </p>
     </div>
     <img src="@/assets/Nossaflex/watch.webp" class="images" />
@@ -98,3 +98,48 @@
     <a href="https://www.nossaflex.io" style="color: #ff5733">NOSSAFLEX</a>
 </div>
 </template>
+
+  
+  
+<style scoped>
+.hero {
+    width: 100%;
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 1px solid rgb(0, 0, 0, 0.1);
+}
+
+.images {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.images-full {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.subtitle {
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+}
+
+.heading {
+    padding-bottom: 5px;
+}
+
+.inner-content {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h6,
+h3 {
+    margin: 0;
+    padding: 0;
+}
+</style>
