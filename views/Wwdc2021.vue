@@ -12,14 +12,7 @@
         </p>
       </div>
     
-      <img src="@/assets/Wwdc/wwdc2021_win.jpg" class="images" />
-      <h6 class="subtitle">Winner's Page for 2021</h6>
-      <div class="inner-content">
-        <h3 class="heading"><b>2021's Success</b></h3>
-        <p class="paragraph">
-          I successfully clinched WWDC SSC and was honored as one of the 350 students worldwide to receive the winning prize. Alongside this achievement, I was offered a media opportunity with a local outlet. The following month, I had the chance to appear on the local news, where I discussed my development journey.
-        </p>
-      </div>
+      
       <img src="@/assets/Wwdc/swag2021.jpg" class="images-full" />
       <h6 class="subtitle" style="padding-bottom: 30px">WWDC Swag!</h6>
       <div class="video">
