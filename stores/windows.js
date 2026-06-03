@@ -29,7 +29,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute", // Window Position
         positionX: "5vw", // Window Position X (when first opened)
         positionY: "5%", // Window Position Y (when first opened)
-        iconImage: "resume.png", // Window Icon Image
+        iconImage: "bio.png", // Window Icon Image
         altText: "Biography", // Window Icon Alt Text
         fullscreen: false, // Window Fullscreen State [true, false]
         showInAppGrid: true,
@@ -38,7 +38,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "ResumeWindow", // Unique ID
         windowState: "close", // Window State [open, close, minimize]
-        displayName: "SERVICES", // Display Name (title under icon)
+        displayName: "Résumé", // Display Name (title under icon)
         windowComponent: "window", // Window Component (can be changed to use modified windows)
         windowContent: "resume", // Window Content (used under slots)
         windowContentPadding: {
@@ -81,7 +81,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "NOSSAFLEXWindow",
         windowState: "close",
-        displayName: "PROJECTS",
+        displayName: "NOSSAFLEX",
         windowComponent: "window",
         windowContent: "nossaflex",
         windowContentPadding: {
@@ -123,7 +123,7 @@ export const useWindowsStore = defineStore("windows", {
     {
         windowId: "AppleWWDC2021",
         windowState: "close",
-        displayName: "CONTACT",
+        displayName: "WWDC 2021",
         windowComponent: "window",
         windowContent: "wwdc2021",
         windowContentPadding: {
@@ -135,7 +135,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "4vw",
         positionY: "12vh",
-        iconImage: "resume.png",
+        iconImage: "apple.png",
         altText: "Apple WWDC 2021",
         fullscreen: false,
         showInAppGrid: true,
@@ -144,7 +144,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "AppleWWDC2022",
         windowState: "close",
-        displayName: "SHOP",
+        displayName: "WWDC 2022",
         windowComponent: "window",
         windowContent: "wwdc2022",
         windowContentPadding: {
@@ -156,7 +156,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "4vw",
         positionY: "12vh",
-        iconImage: "resume.png",
+        iconImage: "apple2.png",
         altText: "Apple WWDC 2022",
         fullscreen: false,
         showInAppGrid: true,
@@ -165,7 +165,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "AppleWWDC2023",
         windowState: "close",
-        displayName: "GAMES",
+        displayName: "WWDC 2023",
         windowComponent: "window",
         windowContent: "wwdc2023",
         windowContentPadding: {
@@ -177,7 +177,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "4vw",
         positionY: "12vh",
-        iconImage: "resume.png",
+        iconImage: "apple3.png",
         altText: "Apple WWDC 2023",
         fullscreen: false,
         showInAppGrid: true,
@@ -186,7 +186,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "MailWindow",
         windowState: "close",
-        displayName: "TEST",
+        displayName: "Mail",
         windowComponent: "mail",
         windowContent: "",
         windowContentPadding: {
@@ -198,7 +198,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "6vw",
         positionY: "12vh",
-        iconImage: "resume.png",
+        iconImage: "mail.png",
         altText: "Mail",
         fullscreen: false,
         showInAppGrid: true,
@@ -207,7 +207,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "PhotosWindow", // Unique ID
         windowState: "close", // Window State [open, close, minimize]
-        displayName: "TEST 2", // Display Name (title under icon)
+        displayName: "Photos", // Display Name (title under icon)
         windowComponent: 'FilesWindow', // Window Component (can be changed to use modified windows)
         windowContent: '', // Window Content (used under slots)
         windowContentPadding: {
@@ -221,7 +221,7 @@ export const useWindowsStore = defineStore("windows", {
         positionY: "10vh", // Window Position Y (when first opened)
         positionXLarge: "23vw",
         positionYLarge: "7%",
-        iconImage: "resume.png", // Window Icon Image
+        iconImage: "photos.png", // Window Icon Image
         altText: "Photos", // Window Icon Alt Text
         fullscreen: false, // Window Fullscreen State [true, false]
         showInNavbar: true,
