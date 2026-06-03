@@ -17,7 +17,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "BiographyWindow", // Unique ID
         windowState: "close", // Window State [open, close, minimize]
-        displayName: "Biography", // Display Name (title under icon)
+        displayName: "ABOUT ME", // Display Name (title under icon)
         windowComponent: "window", // Window Component (can be changed to use modified windows)
         windowContent: "bio", // Window Content (used under slots)
         windowContentPadding: {
@@ -60,7 +60,7 @@ export const useWindowsStore = defineStore("windows", {
     {
         windowId: "AppleWWDC2021",
         windowState: "close",
-        displayName: "WWDC 2021",
+        displayName: "SERVICES",
         windowComponent: "window",
         windowContent: "wwdc2021",
         windowContentPadding: {
