@@ -29,7 +29,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute", // Window Position
         positionX: "5vw", // Window Position X (when first opened)
         positionY: "5%", // Window Position Y (when first opened)
-        iconImage: "bio.png", // Window Icon Image
+        iconImage: "resume.png", // Window Icon Image
         altText: "Biography", // Window Icon Alt Text
         fullscreen: false, // Window Fullscreen State [true, false]
         showInAppGrid: true,
@@ -72,7 +72,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "4vw",
         positionY: "12vh",
-        iconImage: "apple.png",
+        iconImage: "resume.png",
         altText: "Apple WWDC 2021",
         fullscreen: false,
         showInAppGrid: true,
@@ -93,7 +93,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "6vw",
         positionY: "12vh",
-        iconImage: "mail.png",
+        iconImage: "resume.png",
         altText: "Mail",
         fullscreen: false,
         showInAppGrid: true,
