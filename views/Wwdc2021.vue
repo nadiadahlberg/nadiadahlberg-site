@@ -11,14 +11,7 @@
           Text här.
         </p>
       </div>
-      <img src="@/assets/Wwdc/2021_1.jpg" class="images" />
-      <h6 class="subtitle">Page 1 of Submission</h6>
-      <div class="inner-content">
-        <h3 class="heading"><b>Ideation</b></h3>
-        <p class="paragraph">
-          The ideation phase kicked off when Apple announced open submissions for all students worldwide. Without delay, I chose to focus on an area of development that particularly intrigued me: web development. I expanded upon the concept of web development within an app and initiated the creation of prototypes for the project. Initially, I developed a simple app that enabled live editing of HTML/CSS pages using SwiftUI.
-        </p>
-      </div>
+    
       <img src="@/assets/Wwdc/2021_2.jpg" class="images" />
       <h6 class="subtitle">Page 2 of Submission</h6>
       <div class="inner-content">
