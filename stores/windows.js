@@ -172,7 +172,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "4vw",
         positionY: "12vh",
-        iconImage: "explorer.png",
+        iconImage: "resume.png",
         altText: "Apple WWDC 2021",
         fullscreen: false,
         showInAppGrid: true,
