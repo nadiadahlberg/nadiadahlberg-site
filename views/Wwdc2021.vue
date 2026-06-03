@@ -6,7 +6,7 @@
         class="hero"
       />
       <div class="inner-content">
-        <h3 class="heading"><b>Apple WWDC Swift Student Challenge 2021</b></h3>
+        <h3 class="heading"><b>I do:</b></h3>
         <p class="paragraph">
           My journey with Swift began in early 2020 when I embarked on the initial phases of NOSSAFLEX. It was during this time that I began to delve into SwiftUI, a declarative frontend framework for the Swift language.
         </p>
