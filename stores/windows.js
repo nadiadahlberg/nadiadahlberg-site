@@ -106,7 +106,7 @@ export const useWindowsStore = defineStore("windows", {
         folderContent: [
             {
               id: 0,
-              title: "Leica Q",
+              title: "Parks & Resorts",
               content: [
                 {
                   id: 0,
