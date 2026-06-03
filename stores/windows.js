@@ -78,10 +78,6 @@ export const useWindowsStore = defineStore("windows", {
         showInAppGrid: true,
         showInNavbar: true,
       },
-
-
-
-
   {
         windowId: "PhotosWindow", // Unique ID
         windowState: "close", // Window State [open, close, minimize]
@@ -140,8 +136,6 @@ export const useWindowsStore = defineStore("windows", {
           ],
         folderSize: 300000
     },
-
-      
       {
         windowId: "MailWindow",
         windowState: "close",
@@ -159,6 +153,27 @@ export const useWindowsStore = defineStore("windows", {
         positionY: "12vh",
         iconImage: "resume.png",
         altText: "Mail",
+        fullscreen: false,
+        showInAppGrid: true,
+        showInNavbar: true,
+      },
+          {
+        windowId: "AppleWWDC2021",
+        windowState: "close",
+        displayName: "SHOP",
+        windowComponent: "window",
+        windowContent: "wwdc2021",
+        windowContentPadding: {
+          top: null,
+          right: null,
+          bottom: null,
+          left: null,
+        },
+        position: "absolute",
+        positionX: "4vw",
+        positionY: "12vh",
+        iconImage: "resume.png",
+        altText: "Apple WWDC 2021",
         fullscreen: false,
         showInAppGrid: true,
         showInNavbar: true,
