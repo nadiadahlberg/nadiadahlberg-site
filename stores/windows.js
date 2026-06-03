@@ -35,70 +35,7 @@ export const useWindowsStore = defineStore("windows", {
         showInAppGrid: true,
         showInNavbar: true,
       },
-      {
-        windowId: "ResumeWindow", // Unique ID
-        windowState: "close", // Window State [open, close, minimize]
-        displayName: "Résumé", // Display Name (title under icon)
-        windowComponent: "window", // Window Component (can be changed to use modified windows)
-        windowContent: "resume", // Window Content (used under slots)
-        windowContentPadding: {
-          top: "0",
-          right: "0",
-          bottom: "0",
-          left: "0",
-        }, // Window Content Padding
-        position: "absolute", // Window Position
-        positionX: "10vw", // Window Position X (when first opened)
-        positionY: "15vh", // Window Position Y (when first opened)
-        iconImage: "resume.png", // Window Icon Image
-        altText: "Résumé", // Window Icon Alt Text
-        fullscreen: false, // Window Fullscreen State [true, false]
-        showInAppGrid: true,
-        showInNavbar: true,
-      },
-      {
-        windowId: "ImagePreviewWindow",
-        windowState: "close",
-        displayName: "Media Viewer",
-        windowComponent: "ImagePreviewWindow",
-        windowContent: "",
-        windowContentPadding: {
-          top: "1px",
-          right: "10px",
-          bottom: "10px",
-          left: "10px",
-        },
-        position: "absolute",
-        positionX: "6vw",
-        positionY: "12vh",
-        iconImage: "file.png",
-        altText: "Photos",
-        fullscreen: false,
-        showInAppGrid: false,
-        showInNavbar: false,
-        // imagePreview: file.src
-      },
-      {
-        windowId: "NOSSAFLEXWindow",
-        windowState: "close",
-        displayName: "NOSSAFLEX",
-        windowComponent: "window",
-        windowContent: "nossaflex",
-        windowContentPadding: {
-          top: null,
-          right: null,
-          bottom: null,
-          left: null,
-        },
-        position: "absolute",
-        positionX: "6vw",
-        positionY: "12vh",
-        iconImage: "noss.webp",
-        altText: "NOSSAFLEX App",
-        fullscreen: false,
-        showInAppGrid: true,
-        showInNavbar: true,
-      },
+      
     //   {
     //     windowId: "TestBlogWindow",
     //     windowState: "close",
