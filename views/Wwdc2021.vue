@@ -12,25 +12,6 @@
         </p>
       </div>
     
-      <img src="@/assets/Wwdc/2021_2.jpg" class="images" />
-      <h6 class="subtitle">Page 2 of Submission</h6>
-      <div class="inner-content">
-        <h3 class="heading"><b>Content</b></h3>
-        <p class="paragraph">
-          What became apparent to me was that merely having a functional app was only one aspect of a successful submission. It was essential to complement it with compelling content while showcasing the technical proficiency of the developer. Consequently, I made the decision to develop a tutorial-style playground project that would teach users how to utilize HTML/CSS.
-        </p>
-        <p class="paragraph">
-          Moreover, by acquiring basic HTML/CSS skills, users could delve deeper into learning about me. Through engaging in simple challenges embedded within the project, users could uncover interesting facts about me. This approach not only facilitated a valuable learning experience but also provided users with an opportunity to learn more about me personally.
-        </p>
-      </div>
-      <img src="@/assets/Wwdc/2021_3.jpg" class="images" />
-      <h6 class="subtitle">Page 3 of the Submission</h6>
-      <div class="inner-content">
-        <h3 class="heading"><b>Submission</b></h3>
-        <p class="paragraph">
-          Upon completing the development of the project, I was required to submit two 500-word essays detailing the project and my experiences with programming and development outside of WWDC. Here's a pro-tip for anyone aspiring to participate in WWDC SSC: always submit both essays, even if it's stated as optional! Apple evaluates your entire submission alongside these essays, and they undoubtedly play a significant role in the judging process.
-        </p>
-      </div>
       <img src="@/assets/Wwdc/wwdc2021_win.jpg" class="images" />
       <h6 class="subtitle">Winner's Page for 2021</h6>
       <div class="inner-content">
