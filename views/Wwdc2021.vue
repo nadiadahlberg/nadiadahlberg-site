@@ -13,8 +13,6 @@
       </div>
     
       
-      <img src="@/assets/Wwdc/swag2021.jpg" class="images-full" />
-      <h6 class="subtitle" style="padding-bottom: 30px">WWDC Swag!</h6>
       <div class="video">
         <embed
           src="https://www.youtube.com/embed/qGlhv0LeLVE?autohide=1&autoplay=0"
