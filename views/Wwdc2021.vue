@@ -13,18 +13,6 @@
       </div>
     
       
-      <div class="video">
-        <embed
-          src="https://www.youtube.com/embed/qGlhv0LeLVE?autohide=1&autoplay=0"
-          wmode="transparent"
-          type="video/mp4"
-          width="100%"
-          height="100%"
-          allow="autoplay; encrypted-media; picture-in-picture"
-          allowfullscreen
-          title="WWDC Interview"
-        />
-      </div>
     </div>
   </template>
   
