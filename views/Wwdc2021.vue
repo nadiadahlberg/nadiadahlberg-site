@@ -2,7 +2,7 @@
     <div>
       <img
         src="@/assets/Wwdc/ssc2021.jpg"
-        alt="Swift Student Challenge"
+        alt="LOL"
         class="hero"
       />
       <div class="inner-content">
