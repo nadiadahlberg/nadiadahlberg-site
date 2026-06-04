@@ -15,14 +15,14 @@
         </p>
     </div>
 
-        <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">Education</h3>
-    </div>
-
 <section class="pt-6">
     <h4 class="text-lg font-semibold">
-        Bachelor’s Degree in Media and Communication Science
+        Education
     </h4>
+    
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">Bachelor’s Degree in Media and Communication Science</h3>
+    </div>
 
     <p class="text-gray-600 text-xs">
         Jönköping University • 2014–2017
