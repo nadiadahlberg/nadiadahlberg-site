@@ -36,11 +36,11 @@
         <li>Exchange semester: University of Canberra, Australia</li>
     </ul>
         <h3 class="underline font-bold text-md pb-1">Game Programming</h3>
-    </div>
         <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2022</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Text här</li>
         </ul>
+        </div>
 </section>
     
 <div class="pt-7">
