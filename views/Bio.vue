@@ -64,6 +64,11 @@
     </div>
 </div>
 
+<section class="pt-6">
+    <h4 class="text-lg font-semibold">
+        Tools
+    </h4>
+
 <div class="pt-7">
     <h3 class="underline font-bold text-md pb-2.5">Creative</h3>
 
