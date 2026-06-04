@@ -40,7 +40,6 @@
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
             <li>Text här</li>
         </ul>
-        </div>
 </section>
     
 <div class="pt-7">
