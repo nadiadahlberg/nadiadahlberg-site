@@ -13,7 +13,7 @@
         Education
     </h4>
         <div class="pt-7">
-        <h3 class="underline font-bold text-md mb-1">Bachelor’s Degree in Media and Communication Science</h3>
+        <h3 class="underline font-bold text-md mb-0.5">Bachelor’s Degree in Media and Communication Science</h3>
     </div> 
     <p class="text-gray-600 text-xs mt-0">
         Jönköping University • 2014–2017
