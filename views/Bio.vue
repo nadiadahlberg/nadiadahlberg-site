@@ -53,12 +53,11 @@
     </section>
 
 <section class="pt-6">
-    <h4 class="text-lg font-semibold">
-        Tools
-    </h4>
-<div class="pt-7">
-    <h3 class="underline font-bold text-md pb-2.5">Creative</h3>
-    <div class="flex flex-wrap gap-2">
+    <h4 class="text-lg font-semibold">Tools</h4>
+    <div class="pt-5">
+        <h3 class="font-bold text-md">Creative</h3>
+    </div>
+    <div class="pt-5 flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Photoshop
         </span>
