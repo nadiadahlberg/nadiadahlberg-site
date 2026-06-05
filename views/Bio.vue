@@ -20,13 +20,6 @@
     <ul class="list-disc mt-2 text-sm font-thin">
         <li>Exchange semester: University of Canberra, Australia</li>
     </ul>
-        <div class="pt-5">
-        <h3 class="font-bold text-md">Game Programming</h3>
-    </div>
-        <p class="text-gray-600 text-xs mt-2">Forsbergs Skola</p>
-    <ul class="list-disc mt-5 text-sm font-thin">
-        <li>Text här</li>
-    </ul>
 </section>
     
     <section class="pt-6">
