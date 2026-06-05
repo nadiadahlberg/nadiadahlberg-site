@@ -15,7 +15,7 @@
         <div class="pt-7">
         <h3 class="underline font-bold text-md pb-0">Bachelor’s Degree in Media and Communication Science</h3>
     </div>
-    <p class="text-gray-600 text-xs -mt+2">
+    <p class="text-gray-600 text-xs -mt+1">
         Jönköping University • 2014–2017
     </p>
     <ul class="list-disc pl-5 mt-2 text-sm font-thin">
