@@ -42,16 +42,6 @@
     <section class="pt-6">
         <h4 class="text-lg font-semibold">Tools</h4>
 
-        <div class="pt-5 flex flex-wrap gap-2">
-            <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">English</span>
-            <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Swedish</span>
-            <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Polish</span>
-        </div>
-    </section>
-
-    <section class="pt-6">
-        <h4 class="text-lg font-semibold">Tools</h4>
-
         <div class="pt-5">
             <h3 class="font-bold text-md">Creative</h3>
         </div>
@@ -67,11 +57,12 @@
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">DaVinci Resolve</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Blender</span>
         </div>
-    </section>
 
-    <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-2.5">Marketing</h3>
-        <div class="flex flex-wrap gap-2">
+        <div class="pt-5">
+            <h3 class="font-bold text-md">Marketing</h3>
+        </div>
+
+        <div class="pt-5 flex flex-wrap gap-2">
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">GA4/Google Analytics 4</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Google Search Console</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Google Ads</span>
@@ -80,7 +71,7 @@
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Mailchimp</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">HubSpot</span>
         </div>
-    </div>
+    </section>
 
     <div class="pt-7">
         <h3 class="underline font-bold text-md pb-2.5">CMS</h3>
