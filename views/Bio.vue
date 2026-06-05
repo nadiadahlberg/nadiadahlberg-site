@@ -10,7 +10,7 @@
     <h4 class="text-gray-600 font-medium text-xs">Available worldwide</h4>
     
     <section class="pt-6">
-        <h4 class="text-lg font-semibold">Education</h4>
+        <h4 class="text-lg font-semibold">EDUCATION</h4>
 
         <div class="pt-5">
             <h3 class="font-bold text-md">Bachelor’s Degree in Media and Communication Science</h3>
@@ -30,7 +30,7 @@
     </section>
 
     <section class="pt-6">
-        <h4 class="text-lg font-semibold">Skills</h4>
+        <h4 class="text-lg font-semibold">SKILLS</h4>
 
         <div class="pt-5">
             <h3 class="font-bold text-md">Languages</h3>
