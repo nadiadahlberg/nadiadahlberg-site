@@ -42,6 +42,7 @@
             Polish
         </span>
     </div>
+    </section>
 
 <section class="pt-6">
     <h4 class="text-lg font-semibold">
