@@ -71,21 +71,23 @@
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Mailchimp</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">HubSpot</span>
         </div>
-    </section>
 
-    <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-2.5">CMS</h3>
-        <div class="flex flex-wrap gap-2">
+        <div class="pt-5">
+            <h3 class="font-bold text-md">CMS</h3>
+        </div>
+
+        <div class="pt-5 flex flex-wrap gap-2">
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Optimizely/Episerver</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">WordPress</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Drupal</span>
         </div>
-    </div>
 
-    <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-2.5">Tech</h3>
-        <div class="flex flex-wrap gap-2">
-            <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">HTML/CSS</span>
+       <div class="pt-5">
+            <h3 class="font-bold text-md">Tech</h3>
+        </div>
+
+        <div class="pt-5 flex flex-wrap gap-2">
+         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">HTML/CSS</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">GitHub</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Git</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Unity</span>
@@ -94,6 +96,7 @@
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">Tailwind CSS</span>
             <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">C#</span>
         </div>
-    </div>
+    </section>
+
 </div>
 </template>
