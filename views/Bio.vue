@@ -29,9 +29,9 @@
     </ul>
 </section>
     
-<div class="pt-7">
-        <h4 class="text-lg font-semibold">Languages</h4>
-    <div class="flex flex-wrap gap-2">
+    <section class="pt-6">
+    <h4 class="text-lg font-semibold underline">Languages</h4>
+    <div class="pt-5 flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             English
         </span>
@@ -84,7 +84,7 @@
     <h3 class="underline font-bold text-md pb-2.5">Marketing</h3>
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
-            Google Analytics 4
+            GA4/Google Analytics 4
         </span>
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Google Search Console
