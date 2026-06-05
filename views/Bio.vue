@@ -11,9 +11,9 @@
 <section class="pt-6">
 <h4 class="text-lg font-semibold underline">Education</h4>
     <div class="pt-5">
-        <h3 class="font-bold text-md pb-0">Bachelor’s Degree in Media and Communication Science</h3>
+        <h3 class="font-bold text-md">Bachelor’s Degree in Media and Communication Science</h3>
     </div>
-        <p class="text-gray-600 text-xs">Jönköping University • 2014–2017</p>
+        <p class="text-gray-600 text-xs mt-0">Jönköping University • 2014–2017</p>
     <ul class="list-disc pl-5 mt-2 text-sm font-thin">
         <li>Specialization: Marketing Communication and PR</li>
     </ul>
