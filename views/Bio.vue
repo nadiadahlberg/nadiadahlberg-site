@@ -24,7 +24,7 @@
         <h3 class="font-bold text-md pb-0">Game Programming</h3>
     </div>
         <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2022</p>
-        <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
+        <ul class="list-disc mt-2 space-y-1 text-sm font-thin">
             <li>Text här</li>
         </ul>
 </section>
