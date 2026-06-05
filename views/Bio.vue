@@ -44,6 +44,21 @@
     </div>
     </section>
 
+        <section class="pt-6">
+    <h4 class="text-lg font-semibold">Tools</h4>
+    <div class="pt-5 flex flex-wrap gap-2">
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            English
+        </span>
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Swedish
+        </span>
+        <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
+            Polish
+        </span>
+    </div>
+    </section>
+
 <section class="pt-6">
     <h4 class="text-lg font-semibold">
         Tools
