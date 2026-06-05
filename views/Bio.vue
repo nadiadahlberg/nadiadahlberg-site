@@ -14,6 +14,7 @@
          Creating and managing communication, content, and marketing across digital channels. Experience across both public and private sectors.
         </p>
     </div>
+    
 <section class="pt-6">
     <h4 class="text-lg font-semibold">
         Education
@@ -27,10 +28,12 @@
     <ul class="list-disc pl-5 mt-2 text-sm font-thin">
         <li>Specialization: Marketing Communication and PR</li>
     </ul>
+        <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-1">Bachelor’s Degree in Media and Communication Science</h3>
+    </div>
     <ul class="list-disc pl-5 mt-2 text-sm font-thin">
         <li>Exchange semester: University of Canberra, Australia</li>
     </ul>
-    <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">Game Programming</h3>
         <p class="text-gray-600 text-xs">Forsbergs Skola • 2020 – 2022</p>
         <ul class="list-disc pl-5 mt-2 space-y-1 text-sm font-thin">
