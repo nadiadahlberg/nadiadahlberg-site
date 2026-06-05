@@ -14,10 +14,10 @@
         <h3 class="font-bold text-md">Bachelor’s Degree in Media and Communication Science</h3>
     </div>
         <p class="text-gray-600 text-xs mt-2">Jönköping University • 2014–2017</p>
-    <ul class="list-disc pl-5 mt-5 text-sm font-thin">
+    <ul class="list-disc mt-5 text-sm font-thin">
         <li>Specialization: Marketing Communication and PR</li>
     </ul>
-    <ul class="list-disc pl-5 mt-2 text-sm font-thin">
+    <ul class="list-disc mt-2 text-sm font-thin">
         <li>Exchange semester: University of Canberra, Australia</li>
     </ul>
             <div class="pt-7">
