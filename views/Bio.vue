@@ -8,8 +8,8 @@
     <h4 class="text-gray-600 font-medium text-xs">📍Based in Stockholm, Sweden</h4>
     <h4 class="text-gray-600 font-medium text-xs">🌍Available worldwide</h4>
 
-       <div class="pt-7">
-        <h3 class="underline font-bold text-md pb-1">About Me</h3>
+       <div class="pt-6">
+    <h4 class="text-lg font-semibold">About Me</h4>
         <p class="font-thin text-sm pb-2.5">
          Creating and managing communication, content, and marketing across digital channels. Experience across both public and private sectors.
         </p>
