@@ -12,12 +12,10 @@
     <h4 class="text-lg font-semibold">
         Education
     </h4>
-        <div class="pt-7">
-        <h3 class="underline font-bold text-md mb-0.5">Bachelor’s Degree in Media and Communication Science</h3>
-    </div> 
-    <p class="text-gray-600 text-xs mt-0">
-        Jönköping University • 2014–2017
-    </p>
+    <div class="pt-7">
+        <h3 class="underline font-bold text-md pb-0">Bachelor’s Degree in Media and Communication Science</h3>
+    </div>
+        <p class="text-gray-600 text-xs">Jönköping University • 2014–2017</p>
     <ul class="list-disc pl-5 mt-2 text-sm font-thin">
         <li>Specialization: Marketing Communication and PR</li>
     </ul>
@@ -37,16 +35,13 @@
         <h4 class="text-lg font-semibold">
         Languages
     </h4>
-
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             English
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Swedish
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Polish
         </span>
@@ -57,144 +52,108 @@
     <h4 class="text-lg font-semibold">
         Tools
     </h4>
-
 <div class="pt-7">
     <h3 class="underline font-bold text-md pb-2.5">Creative</h3>
-
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Photoshop
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Illustrator
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             InDesign
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Firefly
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Figma
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Premiere Pro
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             After Effects
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             DaVinci Resolve
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Blender
         </span>
-        
     </div>
 </div>
-
     <div class="pt-7">
     <h3 class="underline font-bold text-md pb-2.5">Marketing</h3>
-
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Google Analytics 4
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Google Search Console
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Google Ads
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Google Tag Manager
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Apsis
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Mailchimp
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             HubSpot
         </span>
-        
     </div>
 </div>
-
     <div class="pt-7">
     <h3 class="underline font-bold text-md pb-2.5">CMS</h3>
-
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Optimizely/Episerver
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             WordPress
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Drupal
         </span>
-
     </div>
 </div>
-
         <div class="pt-7">
     <h3 class="underline font-bold text-md pb-2.5">Tech</h3>
-
     <div class="flex flex-wrap gap-2">
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             HTML/CSS
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             GitHub
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Git
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Unity
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             JavaScript
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Vue.js
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             Tailwind CSS
         </span>
-
         <span class="px-3 py-1 text-xs border border-gray-300 rounded-full">
             C#
         </span>
-        
     </div>
 </div>
     </section>
-
     
 </div>
 </template>
