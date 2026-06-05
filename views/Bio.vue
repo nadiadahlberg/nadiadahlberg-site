@@ -3,10 +3,10 @@
     <img class="w-full h-auto" src="https://earth-agency.com/app/uploads/2025/01/DJ-Spanish-Fly-2-Crop.jpg" />
     <h2 class="font-bold text-2xl py-5">Nadia Dahlberg</h2>
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
-        Digital communication specialist, graphic designer, creative and game programmer
+        Digital Marketing & Communications Manager
     </h4>
-    <h4 class="text-gray-600 font-medium text-xs">📍Based in Stockholm, Sweden</h4>
-    <h4 class="text-gray-600 font-medium text-xs">🌍Available worldwide</h4>
+    <h4 class="text-gray-600 font-medium text-xs">Based in Stockholm, Sweden</h4>
+    <h4 class="text-gray-600 font-medium text-xs">Available worldwide</h4>
     
 <section class="pt-6">
 <h4 class="text-lg font-semibold">Education</h4>
