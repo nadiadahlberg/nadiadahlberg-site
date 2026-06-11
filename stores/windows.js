@@ -27,8 +27,8 @@ export const useWindowsStore = defineStore("windows", {
           left: null,
         }, // Window Content Padding
         position: "absolute", // Window Position
-        positionX: "5vw", // Window Position X (when first opened)
-        positionY: "5%", // Window Position Y (when first opened)
+        positionX: "50%", // Window Position X (when first opened)
+        positionY: "50%", // Window Position Y (when first opened)
         iconImage: "resume.png", // Window Icon Image
         altText: "Biography", // Window Icon Alt Text
         fullscreen: false, // Window Fullscreen State [true, false]
