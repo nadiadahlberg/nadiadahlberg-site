@@ -88,10 +88,11 @@ onMounted(() => {
             :content_padding_top="window.windowContentPadding['top']" 
             :id="window.windowId" 
             :style="{
-                    position: window.position,
-                    left: window.positionX,
-                    top: window.positionY,
-                  }" 
+  position: window.position,
+  left: window.positionX,
+  top: window.positionY,
+  transform: window.transform,
+}"
             :folderContent="window.folderContent" 
             :folderSize="window.folderSize" 
             v-if="windowCheck(window.windowId)" 
