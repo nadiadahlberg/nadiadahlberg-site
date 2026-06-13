@@ -151,7 +151,7 @@ export const useWindowsStore = defineStore("windows", {
         position: "absolute",
         positionX: "6vw",
         positionY: "12vh",
-        iconImage: "email.png",
+        iconImage: "Namnlöst-1.png",
         altText: "Mail",
         fullscreen: false,
         showInAppGrid: true,
