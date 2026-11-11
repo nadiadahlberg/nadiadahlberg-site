@@ -18,6 +18,18 @@ const openGithub = () => {
     window.open("https://github.com/DonChiaQE");
 }
 
+// Icons with an externalUrl are shortcuts that link out; all others open a window.
+// An empty externalUrl means the link is not set yet, so nothing happens.
+const activateIcon = (item) => {
+    if (item.externalUrl !== undefined) {
+        if (item.externalUrl) {
+            window.open(item.externalUrl, "_blank", "noopener");
+        }
+        return
+    }
+    openWindow(item.windowId)
+}
+
 
 const getImagePath = (iconImage) => {
     const path = `../assets/win95Icons/${iconImage}`;
@@ -38,8 +50,8 @@ onMounted(() => {
       <button
         class="icon"
         v-if="window.showInAppGrid != false"
-        @touchstart="openWindow(window.windowId)"
-        @dblclick="openWindow(window.windowId)"
+        @touchstart="activateIcon(window)"
+        @dblclick="activateIcon(window)"
       >
       <img class="icon-image" :src=getImagePath(window.iconImage) :alt="window.altText" />
         <div class="border-box">

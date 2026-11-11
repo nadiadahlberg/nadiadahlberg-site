@@ -157,6 +157,31 @@ export const useWindowsStore = defineStore("windows", {
         showInAppGrid: true,
         showInNavbar: true,
       },
+      {
+        // Desktop shortcut that links out instead of opening a window.
+        // Put the game's address in externalUrl when it is published;
+        // while it is empty, clicking the icon does nothing.
+        windowId: "PlayMyGame",
+        windowState: "close",
+        displayName: "PLAY MY GAME",
+        windowComponent: "window",
+        windowContent: "",
+        windowContentPadding: {
+          top: null,
+          right: null,
+          bottom: null,
+          left: null,
+        },
+        position: "absolute",
+        positionX: "6vw",
+        positionY: "12vh",
+        iconImage: "graffiti-game.png",
+        altText: "Play my game",
+        fullscreen: false,
+        showInAppGrid: true,
+        showInNavbar: false,
+        externalUrl: "",
+      },
     ],
   }),
 
