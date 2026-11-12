@@ -181,6 +181,9 @@ export const useWindowsStore = defineStore("windows", {
         showInAppGrid: true,
         showInNavbar: false,
         externalUrl: "",
+        // Icon size in px (other icons use the 30px default). The logo has
+        // text that is unreadable at 30px.
+        iconSize: 80,
       },
     ],
   }),

@@ -37,6 +37,8 @@
   width: 30px;
   height: 30px;
   margin-bottom: 5px;
+  /* keep the set size even when the button is narrower than the icon */
+  flex-shrink: 0;
 }
 
 .icon:focus .icon-image {

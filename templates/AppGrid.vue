@@ -53,7 +53,12 @@ onMounted(() => {
         @touchstart="activateIcon(window)"
         @dblclick="activateIcon(window)"
       >
-      <img class="icon-image" :src=getImagePath(window.iconImage) :alt="window.altText" />
+      <img
+        class="icon-image"
+        :src=getImagePath(window.iconImage)
+        :alt="window.altText"
+        :style="window.iconSize ? { width: window.iconSize + 'px', height: window.iconSize + 'px', maxWidth: 'none', marginLeft: (30 - window.iconSize) / 2 + 'px', marginRight: (30 - window.iconSize) / 2 + 'px' } : null"
+      />
         <div class="border-box">
           <p class="icon-text">
             {{ window.displayName }}
